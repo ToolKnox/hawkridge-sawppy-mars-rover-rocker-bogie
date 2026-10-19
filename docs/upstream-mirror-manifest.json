@@ -1,0 +1,1322 @@
+{
+ "repo": "Roger-random/Sawppy_Rover",
+ "commit": "16eccd0e2cf71d2c720fee56ba247d6d1238dbbb",
+ "files": [
+  {
+   "path": "CONTRIBUTING.md",
+   "sha": "14bbc5d978003c7f2d36b09005cadc9184f2c841",
+   "size": 1765
+  },
+  {
+   "path": "LICENSE",
+   "sha": "7886d96fa11a5045249908a06fc6d69fbab5013e",
+   "size": 1068
+  },
+  {
+   "path": "README.md",
+   "sha": "e3fad908bd63cd625b599c464d98dbd3583a2e9e",
+   "size": 9218
+  },
+  {
+   "path": "STL/Battery Tray.stl",
+   "sha": "ae8a616e8cbee7e96c754375ca633c6a6e49a40c",
+   "size": 408984
+  },
+  {
+   "path": "STL/Body Corner.stl",
+   "sha": "9baef7f395948b92df8b21a6220b93f06525d303",
+   "size": 1116884
+  },
+  {
+   "path": "STL/Bogie-Body.stl",
+   "sha": "737650a5b1bec23dc3abe868c0163091910b3e9b",
+   "size": 244184
+  },
+  {
+   "path": "STL/Bogie-Wheels.stl",
+   "sha": "1ce7e684e73941d8da79e7309b4696bd2f586f77",
+   "size": 674184
+  },
+  {
+   "path": "STL/Clip2n125.stl",
+   "sha": "a1a5565bfa5ca171460f9c05c1df6527f6df53f8",
+   "size": 7284
+  },
+  {
+   "path": "STL/Clip3n20.stl",
+   "sha": "2796f3884c3a8d4197a2d202a4f974661095e5d5",
+   "size": 7484
+  },
+  {
+   "path": "STL/DiffBrace.stl",
+   "sha": "2828321b4bf604bef3b5f8676b825d96e7de2d4d",
+   "size": 293484
+  },
+  {
+   "path": "STL/DiffEnd.stl",
+   "sha": "168869bd79c68a4d2c373cca02aa26d4cd0e795a",
+   "size": 479084
+  },
+  {
+   "path": "STL/DiffLink.stl",
+   "sha": "0f8580b351c8530f59d193faf986c56741c4465b",
+   "size": 182284
+  },
+  {
+   "path": "STL/DiffLower.stl",
+   "sha": "83e5e31d24400fbc03c137ed84387a8ae8318eb2",
+   "size": 275784
+  },
+  {
+   "path": "STL/DiffUpper.stl",
+   "sha": "c72b84f872e06306f017c8295525cba57cc5e970",
+   "size": 210484
+  },
+  {
+   "path": "STL/Fixed Knuckle.stl",
+   "sha": "0dd1506cb20ae80be5843567ff35edeeae3c2987",
+   "size": 459784
+  },
+  {
+   "path": "STL/Front Corner.stl",
+   "sha": "2e99bffcff5239f921dbd3158e4d7fcca67480b6",
+   "size": 779784
+  },
+  {
+   "path": "STL/LX-16A - Bracket.stl",
+   "sha": "6f13752b6dba4fe59c7c05d7c339eea71ec5409b",
+   "size": 122084
+  },
+  {
+   "path": "STL/LX-16A - Coupler.stl",
+   "sha": "23323ed6527d7d565ef6cd3faa3e51edf50daef0",
+   "size": 164084
+  },
+  {
+   "path": "STL/Power Panel.stl",
+   "sha": "fce87a70b529e5ddecf5321d504edeb46b69ca19",
+   "size": 167484
+  },
+  {
+   "path": "STL/README.md",
+   "sha": "300bc3531d8d3fb19e8dcb4cf6ea36a025bb13f1",
+   "size": 292
+  },
+  {
+   "path": "STL/Rear Corner.stl",
+   "sha": "b3e58fb33e7f278a8ef82a38f76b159d58abb714",
+   "size": 753184
+  },
+  {
+   "path": "STL/Rocker Body Mount.stl",
+   "sha": "c6c9ceb68eb590ce45bef8433138e5b255926b8b",
+   "size": 654584
+  },
+  {
+   "path": "STL/Rocker.stl",
+   "sha": "928a326d92f27fd5a91413d8be657ff5af09f43f",
+   "size": 950384
+  },
+  {
+   "path": "STL/Rod Support.stl",
+   "sha": "f1a30fece82393f09c0e5c004556b1b6b8238b4f",
+   "size": 206784
+  },
+  {
+   "path": "STL/Steering Knuckle.stl",
+   "sha": "e2fb3088cc352c87cd6f5f97c97f8340ae56079b",
+   "size": 279084
+  },
+  {
+   "path": "STL/Wheel Hub.stl",
+   "sha": "b124076a5a10e116d30595a3ae29d8230b9342b8",
+   "size": 105784
+  },
+  {
+   "path": "STL/Wheel.stl",
+   "sha": "c9f3eef870ef53e9db4378aa1c02f4570ba6274c",
+   "size": 1309484
+  },
+  {
+   "path": "arduino_sawppy/README.md",
+   "sha": "4313819a82bc31a09f81a02ee60bcc6e78044eb3",
+   "size": 553
+  },
+  {
+   "path": "arduino_sawppy/arduino_sawppy.ino",
+   "sha": "b18696da775b369ab1e32dcf49dce46c6a48b04a",
+   "size": 12570
+  },
+  {
+   "path": "arduino_sawppy/joydrive.cpp",
+   "sha": "e1fc0035215efbcb413b4048b6338100844a085f",
+   "size": 2656
+  },
+  {
+   "path": "arduino_sawppy/joydrive.h",
+   "sha": "5031f12500072409c00c4d60831dbed0d688b1dc",
+   "size": 1024
+  },
+  {
+   "path": "arduino_sawppy/lewansoul.cpp",
+   "sha": "8aea0360561f8c4cc44702ed8d94949ffbf3ebeb",
+   "size": 9103
+  },
+  {
+   "path": "arduino_sawppy/lewansoul.h",
+   "sha": "3582ea6b37f174feac9327556b695b1659369d2b",
+   "size": 441
+  },
+  {
+   "path": "docs/AmazonAssociate.md",
+   "sha": "67cf4cf3afda841b15474745ab4e963eb13a749b",
+   "size": 4629
+  },
+  {
+   "path": "docs/AssembleActuatorModule.md",
+   "sha": "49d21269090f8b09f9e2d68ca91e5411074f98a1",
+   "size": 2451
+  },
+  {
+   "path": "docs/AssembleBody.md",
+   "sha": "797ed0c369b0faffec872adbfad045cc2774de93",
+   "size": 3390
+  },
+  {
+   "path": "docs/AssembleBogie.md",
+   "sha": "5f944ee9291a984d7b79b3764ebb13093e76633e",
+   "size": 2415
+  },
+  {
+   "path": "docs/AssembleDifferential.md",
+   "sha": "d2ef455e2c91de19811dd3dda8f7ef24c0b3922a",
+   "size": 1904
+  },
+  {
+   "path": "docs/AssembleDriveModules.md",
+   "sha": "f5af63e955dd4775fb2abbe7d4023200a54a6d07",
+   "size": 2039
+  },
+  {
+   "path": "docs/AssemblePivotJoints.md",
+   "sha": "f8461fd07241acf0d394574dfc90d0d3dda6263f",
+   "size": 1745
+  },
+  {
+   "path": "docs/AssembleRocker.md",
+   "sha": "07c8dc4a99c731cc68b8cb0d8ebd9ede2a69068f",
+   "size": 2301
+  },
+  {
+   "path": "docs/Misumi HFS 3.md",
+   "sha": "3d51dd86acc5f3a7f9aa25807a9b5244735e1f16",
+   "size": 3367
+  },
+  {
+   "path": "docs/Parts List.md",
+   "sha": "d9c03274d20c9d7910fad25eff306fc0fefbb39b",
+   "size": 2825
+  },
+  {
+   "path": "docs/Price breakdown.md",
+   "sha": "54745183be67557688605c3d2baa774b3ab8abc9",
+   "size": 1564
+  },
+  {
+   "path": "docs/Print Body Box Corners.md",
+   "sha": "4086d97992d153795044220a69de25ca500bb714",
+   "size": 951
+  },
+  {
+   "path": "docs/Print Corner Steering Joints.md",
+   "sha": "d63797112e8df853ed7ca2df054eae5b755b08d7",
+   "size": 2177
+  },
+  {
+   "path": "docs/Print Differential.md",
+   "sha": "2e9650508ea08fd86656fe5bcc2a67e0d5c527bd",
+   "size": 2124
+  },
+  {
+   "path": "docs/Print Fixed Knuckle.md",
+   "sha": "91320415373f4107cf7691e8025065c185959bea",
+   "size": 1266
+  },
+  {
+   "path": "docs/Print M3 Installation Tool.md",
+   "sha": "443a4eaf0d06191e3f133bf8935ccf7ea1bb923b",
+   "size": 1016
+  },
+  {
+   "path": "docs/Print Overview.md",
+   "sha": "48486a6d22f2f666445dd387060a2a6dc66142a9",
+   "size": 6767
+  },
+  {
+   "path": "docs/Print Servo Parts.md",
+   "sha": "70b2f21bea6c8a2fd4ae259ed724cf9d05b586cd",
+   "size": 5955
+  },
+  {
+   "path": "docs/Print Steering Knuckle.md",
+   "sha": "d3a9db19e94dc3e90c3eaf070880ec9ec47088fd",
+   "size": 3016
+  },
+  {
+   "path": "docs/Print Suspension Bogie Joints.md",
+   "sha": "04e3379a09c7f070383e03ee8634e8f1bf27d731",
+   "size": 2053
+  },
+  {
+   "path": "docs/Print Suspension Rocker Joints.md",
+   "sha": "2d471701097e352b99669dc932303427a9284040",
+   "size": 2291
+  },
+  {
+   "path": "docs/Print Wheel Hub.md",
+   "sha": "034d85833267ce961ba0730f8176349437f109d8",
+   "size": 3173
+  },
+  {
+   "path": "docs/Print Wheel.md",
+   "sha": "c59503cbdd61edc25a21ffe0cebb23d0d70be563",
+   "size": 2059
+  },
+  {
+   "path": "docs/README.md",
+   "sha": "25a41ab2cafcc9e4d1cc0d09292550772bd4a129",
+   "size": 5276
+  },
+  {
+   "path": "docs/SGVHAK Rover Software.md",
+   "sha": "2fa65215c69e874d2e1810c009894b678fa0c388",
+   "size": 7811
+  },
+  {
+   "path": "docs/Shaft8mm.md",
+   "sha": "bd7be6a364df917bedaf8368d1d3cb79ca9aeab6",
+   "size": 4720
+  },
+  {
+   "path": "docs/Tools.md",
+   "sha": "3e5ab6cbe780ae22f55a53f0c33078ba2a09e06b",
+   "size": 1187
+  },
+  {
+   "path": "docs/images/Actuator-Complete.jpg",
+   "sha": "014ac4da4e81ee8dc4ccab05e7f820ee2840a030",
+   "size": 108557
+  },
+  {
+   "path": "docs/images/Actuator-CouplerParts.jpg",
+   "sha": "2970eac0960e9e64cbc972dec65f35fcc4cf3f8c",
+   "size": 80732
+  },
+  {
+   "path": "docs/images/Actuator-Orientation.jpg",
+   "sha": "278be277dae95c88052ece0cc09247e269a9a6ac",
+   "size": 99397
+  },
+  {
+   "path": "docs/images/Actuator-ServoID.jpg",
+   "sha": "11b296b143493cd922ecc31a58dc2d32c3186d87",
+   "size": 136915
+  },
+  {
+   "path": "docs/images/Actuator-VerifyLength.jpg",
+   "sha": "53b9809ef320c0822381ccbc20a4792785662287",
+   "size": 118682
+  },
+  {
+   "path": "docs/images/Arduino-wiring-by-Martin.jpg",
+   "sha": "d9f26860e9893f7004055db9145a743932cebe85",
+   "size": 45528
+  },
+  {
+   "path": "docs/images/Body01-Parts.jpg",
+   "sha": "a207ede7afc3375bc94bbcfff9dff79384b9a8af",
+   "size": 77599
+  },
+  {
+   "path": "docs/images/Body02-Rear.jpg",
+   "sha": "68883148232c1333e73573f917258dbde0d13186",
+   "size": 74143
+  },
+  {
+   "path": "docs/images/Body03-Front.jpg",
+   "sha": "75ddcd4f8f75e21becc6efc2a75b6f5f3a722d8b",
+   "size": 75157
+  },
+  {
+   "path": "docs/images/Body04-Left.jpg",
+   "sha": "f9f9f61f2495ceb2748bde1ebe75243e8eab24e3",
+   "size": 80227
+  },
+  {
+   "path": "docs/images/Body05-Right.jpg",
+   "sha": "402410df63d90b1e8cf028a6d1ed35a59ab3fdc2",
+   "size": 75960
+  },
+  {
+   "path": "docs/images/Body06-Joined.jpg",
+   "sha": "e2bde7a9c0f77d2d9863358902d6cebec74eed12",
+   "size": 82271
+  },
+  {
+   "path": "docs/images/Body07-RequiredNuts.jpg",
+   "sha": "49792a9af53543b1456d634cd35da93b75f2255c",
+   "size": 370389
+  },
+  {
+   "path": "docs/images/Body08-BottomPlateNuts.jpg",
+   "sha": "25ea1d16fc50e5971ecc02dbe12bd4576113fc4e",
+   "size": 384804
+  },
+  {
+   "path": "docs/images/Body09-MastMountNuts.jpg",
+   "sha": "4b0a3bb0c955c1397676b392a0f81b7c8b3a15cc",
+   "size": 415622
+  },
+  {
+   "path": "docs/images/Body10-PowerTrayNuts.jpg",
+   "sha": "ebdc7bdbe0e1b539a6932eff7dd2507ef41e7052",
+   "size": 438168
+  },
+  {
+   "path": "docs/images/BodyCorner-PrintBed.jpg",
+   "sha": "b7a79e206edc0683967c50ad74800133c84390bb",
+   "size": 128418
+  },
+  {
+   "path": "docs/images/Bogie-PivotBridgeRemove.jpg",
+   "sha": "bf3f0660a97f6fa088583d8fe7fd625d93d43922",
+   "size": 103764
+  },
+  {
+   "path": "docs/images/Bogie-PivotParts.jpg",
+   "sha": "e56383fd294b214e323fe2bc4774d2e2133c2c7e",
+   "size": 107159
+  },
+  {
+   "path": "docs/images/Bogie-RockerBridgeRemove.jpg",
+   "sha": "bea91e68e97ea90a7448205612673254b2c320c7",
+   "size": 50053
+  },
+  {
+   "path": "docs/images/Bogie-RockerReamer.jpg",
+   "sha": "fb98c5e2a55b754a11c02c536d4f6f3b310e88b2",
+   "size": 99309
+  },
+  {
+   "path": "docs/images/Bogie01-Parts.jpg",
+   "sha": "08e3e494788ee02042d4132a7395e1aed2a81817",
+   "size": 61922
+  },
+  {
+   "path": "docs/images/Bogie02-Rear.jpg",
+   "sha": "341724cce11299a7e7f1f5d67158cb2cc3339dd8",
+   "size": 61015
+  },
+  {
+   "path": "docs/images/Bogie03-Mid.jpg",
+   "sha": "1721ea13cb043577da71d88dd0b7a0f24ec21d8d",
+   "size": 60914
+  },
+  {
+   "path": "docs/images/Bogie04-RearCorner.jpg",
+   "sha": "25ba7cb6af4a0d791ca07833046d49881704b066",
+   "size": 84829
+  },
+  {
+   "path": "docs/images/Bogie05-Complete.jpg",
+   "sha": "276c577ff49766f88d180f7f28b8a873947b2be6",
+   "size": 89964
+  },
+  {
+   "path": "docs/images/BogieJoint01-Parts.jpg",
+   "sha": "8da65dbe16e28c5e8ff15790a9e24c9169594797",
+   "size": 138595
+  },
+  {
+   "path": "docs/images/BogieJoint02-Shaft.jpg",
+   "sha": "fb0def50763aac76482abf0f16ca9b9f55284c6e",
+   "size": 157625
+  },
+  {
+   "path": "docs/images/BogieJoint03-Complete.jpg",
+   "sha": "8d0a8f7003646e909d7145638bd22c71ef6bcf56",
+   "size": 143373
+  },
+  {
+   "path": "docs/images/BogieShaft.JPG",
+   "sha": "844f2ee553e3ef3c66e3a8a74a6985f589cc2178",
+   "size": 19253
+  },
+  {
+   "path": "docs/images/Corners01-Parts.jpg",
+   "sha": "67baecf1e2d3dc6cea711b169e905f99732f0201",
+   "size": 167001
+  },
+  {
+   "path": "docs/images/Corners02-Complete.jpg",
+   "sha": "93e43e37bb36356348bd2bb442ebb05866418378",
+   "size": 170393
+  },
+  {
+   "path": "docs/images/Differential-LinkParts.jpg",
+   "sha": "14a55c6c51dd525f3fff74d567ac8aeecfd2644c",
+   "size": 80302
+  },
+  {
+   "path": "docs/images/Differential-LinkReamer.jpg",
+   "sha": "42e500cce9a1195e5c47eaac609029e039bf3df5",
+   "size": 85507
+  },
+  {
+   "path": "docs/images/Differential-PrintBed.jpg",
+   "sha": "358684b46364e0ff280d13f8a00d6dfd24329fea",
+   "size": 144150
+  },
+  {
+   "path": "docs/images/Differential-RodSupportReamer.jpg",
+   "sha": "d70e909bb3b2bed0f0a85b27b5ffcf9301793632",
+   "size": 77874
+  },
+  {
+   "path": "docs/images/Differential-UpperLowerParts.jpg",
+   "sha": "893bba04eea3b93ccd001167526cdb4d84c72780",
+   "size": 90860
+  },
+  {
+   "path": "docs/images/Differential01-Parts.jpg",
+   "sha": "7007bd0a0850e9e40c76517f96ad924402859c71",
+   "size": 73554
+  },
+  {
+   "path": "docs/images/Differential02-RodSupport.jpg",
+   "sha": "2acb58d14935e6e3e3ddb2961414ddfbcc38f328",
+   "size": 72982
+  },
+  {
+   "path": "docs/images/Differential03-UpperLower.jpg",
+   "sha": "d70cc9b3f6c525d95e5a766d7b4b3312af9f10a0",
+   "size": 70144
+  },
+  {
+   "path": "docs/images/Differential04-Brace.jpg",
+   "sha": "bcf2a755823a5e755f108297afc07dfbf86c70fe",
+   "size": 77254
+  },
+  {
+   "path": "docs/images/Differential05-Beam.jpg",
+   "sha": "fa44029b4df0c64867ccb7bf87c7bd021fdf58d2",
+   "size": 78433
+  },
+  {
+   "path": "docs/images/Differential06-Links.jpg",
+   "sha": "e1ca893cf62a42dd551ca79c50cc3b744a9401a9",
+   "size": 81782
+  },
+  {
+   "path": "docs/images/Differential07-Complete.jpg",
+   "sha": "0bbb3635090732dea5b95383e308af8c631d0525",
+   "size": 82283
+  },
+  {
+   "path": "docs/images/Differential08-Installed.jpg",
+   "sha": "58947d26b096533809b7ef92dda74fc91bd2950e",
+   "size": 106083
+  },
+  {
+   "path": "docs/images/DriveShaft.JPG",
+   "sha": "f9220239a87b3b2ed887a5be539432d234e5f431",
+   "size": 18043
+  },
+  {
+   "path": "docs/images/DriveUnit01-SteerableParts.jpg",
+   "sha": "e9df9f5a02dcdf7557913c45ba754fc20b7c7084",
+   "size": 139573
+  },
+  {
+   "path": "docs/images/DriveUnit02-SteerableDriveshaft.jpg",
+   "sha": "c5bac44b4edbcc0a457d78c1a17ab995c6620ed6",
+   "size": 116640
+  },
+  {
+   "path": "docs/images/DriveUnit03-ServoAndHub.jpg",
+   "sha": "f4d42b67927d185b1dd73aa97632775d67781cab",
+   "size": 140369
+  },
+  {
+   "path": "docs/images/DriveUnit04-HubInsertHighlight.jpg",
+   "sha": "ccd7fa453a9889c00320bdcb740ab257e48921f2",
+   "size": 125393
+  },
+  {
+   "path": "docs/images/DriveUnit05-SteerableComplete.jpg",
+   "sha": "fdf8c4deefa8e0bf5b43b2923da6e6a1c606329a",
+   "size": 157160
+  },
+  {
+   "path": "docs/images/DriveUnit06-FixedParts.jpg",
+   "sha": "c041980e197009f10c1c890316da189a245642ac",
+   "size": 142660
+  },
+  {
+   "path": "docs/images/FixedKnuckle-Complete.jpg",
+   "sha": "5216b2636e7d859b33beb5b2983122ad3f470954",
+   "size": 92248
+  },
+  {
+   "path": "docs/images/FixedKnuckle-Mirror.jpg",
+   "sha": "e636f7aef9ee4135273c146a09677f95c4563487",
+   "size": 62348
+  },
+  {
+   "path": "docs/images/FixedKnuckle-Parts.jpg",
+   "sha": "e047b69309244d8c690459859c92861da53008b4",
+   "size": 91925
+  },
+  {
+   "path": "docs/images/FrontCorner-Complete.jpg",
+   "sha": "3f568aed87661de2d43decbbbd60442dfe4d9ba1",
+   "size": 63392
+  },
+  {
+   "path": "docs/images/FrontCorner-Parts.jpg",
+   "sha": "64a9320311635e5564f32c4315a014e78b83f355",
+   "size": 92353
+  },
+  {
+   "path": "docs/images/M3ToolPrintBed.jpg",
+   "sha": "2610da99e6bc44639fa4bab1792e44fa0be50374",
+   "size": 165224
+  },
+  {
+   "path": "docs/images/MechanicalChassis.jpg",
+   "sha": "f22e4872b7cb1f544b4346eb5700b986e2aad748",
+   "size": 150093
+  },
+  {
+   "path": "docs/images/MisumiPrecutCart.jpg",
+   "sha": "6e038951c47a08ba111a4233271fd4d305fc26bc",
+   "size": 134578
+  },
+  {
+   "path": "docs/images/RearCorners-Complete.jpg",
+   "sha": "e1ef9f1ea45f603c15921d6d13865a76899aacf9",
+   "size": 86414
+  },
+  {
+   "path": "docs/images/Rocker-BodyReamer.jpg",
+   "sha": "9e80df886dcde337fb89305b1b7714d4d280b2d0",
+   "size": 85737
+  },
+  {
+   "path": "docs/images/Rocker-PivotComplete.jpg",
+   "sha": "c8ae773726750e9797e1bf14da65e29ab1a41cf2",
+   "size": 72413
+  },
+  {
+   "path": "docs/images/Rocker-PivotInsert.jpg",
+   "sha": "30e771dce1f93216c4db7d17780555f844c83fc1",
+   "size": 73471
+  },
+  {
+   "path": "docs/images/Rocker-PivotParts.jpg",
+   "sha": "1002dd5c7271fdbc5588d8a7e5af2ffb2a8f89f9",
+   "size": 105378
+  },
+  {
+   "path": "docs/images/Rocker01-Parts.jpg",
+   "sha": "158d708c49816a909230f7f8351aa1f110ff7f3b",
+   "size": 56091
+  },
+  {
+   "path": "docs/images/Rocker02-Rear.jpg",
+   "sha": "d96ef95fd38541f28fbee114d9f63b73feb74976",
+   "size": 52867
+  },
+  {
+   "path": "docs/images/Rocker03-Front.jpg",
+   "sha": "fc80411f69cd62956d1352f618fbf3642ad3a321",
+   "size": 58467
+  },
+  {
+   "path": "docs/images/Rocker04-FrontCorner.jpg",
+   "sha": "070c83b700b65c586c25c017e8dc7dab6dafaa05",
+   "size": 87830
+  },
+  {
+   "path": "docs/images/Rocker05-Complete.jpg",
+   "sha": "18e29ff670f5b9f719fb31cfc83752775f75f2fb",
+   "size": 69664
+  },
+  {
+   "path": "docs/images/Rocker06-WithBogie.jpg",
+   "sha": "e81a3eb5b3368b4bc9b09413117905236cf523c1",
+   "size": 62955
+  },
+  {
+   "path": "docs/images/Rocker07-Mounted.jpg",
+   "sha": "a3f13328f6a8ecdc1e9cf40c6986598f48b48aa5",
+   "size": 108322
+  },
+  {
+   "path": "docs/images/Rocker08-Turnbuckle.jpg",
+   "sha": "61d34b9629dc1bcdd201173971b1e6199dcd5a52",
+   "size": 98420
+  },
+  {
+   "path": "docs/images/RockerJoint01-Parts.jpg",
+   "sha": "870b306d5a552f43e3d9834d1903a92d63880215",
+   "size": 132921
+  },
+  {
+   "path": "docs/images/RockerJoint02-Shaft.jpg",
+   "sha": "2bd86bb6c259999a83d1e2344c42f44777a3889b",
+   "size": 140229
+  },
+  {
+   "path": "docs/images/RockerJoint03-Complete.jpg",
+   "sha": "686c5bdeb3cff3f9f301f03b8f48c3081cc88bf9",
+   "size": 141873
+  },
+  {
+   "path": "docs/images/RockerShaft.JPG",
+   "sha": "da511739c6139882c2c6bf5fcd64f7dcee1b592a",
+   "size": 23530
+  },
+  {
+   "path": "docs/images/Sawppy V1 Schematic.png",
+   "sha": "8347772742f71d9fb95efb1797323d6e19faba99",
+   "size": 274906
+  },
+  {
+   "path": "docs/images/Serial-Servo-Rename.jpg",
+   "sha": "495afbd01e1ae5fafcf03aa0d6d9d0c5a15d9b3a",
+   "size": 176041
+  },
+  {
+   "path": "docs/images/ServoBracket-Tap.jpg",
+   "sha": "97a3c0062a1725c516bcff5befd98c30cff5671d",
+   "size": 88888
+  },
+  {
+   "path": "docs/images/ServoCoupler-Complete.jpg",
+   "sha": "a511fea18af9b26cdf112f9bf7a5daaca0bbf79d",
+   "size": 72387
+  },
+  {
+   "path": "docs/images/ServoCoupler-InsertFinishup.jpg",
+   "sha": "c8a91b74d449a9e86b082321569c262a1cd5714f",
+   "size": 82219
+  },
+  {
+   "path": "docs/images/ServoCoupler-InsertHalf.jpg",
+   "sha": "3afb245b5e130fbeb78fd0e573db4bfe545d01e5",
+   "size": 124758
+  },
+  {
+   "path": "docs/images/ServoCoupler-InsertHeat.jpg",
+   "sha": "1c927d3801844604d9ef04aa8d61291f2746a576",
+   "size": 80795
+  },
+  {
+   "path": "docs/images/ServoCoupler-InsertStart.jpg",
+   "sha": "5e9accfac69463b93d097b626daf5fcb142ccd69",
+   "size": 70697
+  },
+  {
+   "path": "docs/images/ServoCoupler-Parts.jpg",
+   "sha": "5db91c6337032b06163a28585d2aa18b3d8f25c9",
+   "size": 61994
+  },
+  {
+   "path": "docs/images/SteerShaft.JPG",
+   "sha": "4775ab94341dd1e815c81964e2656ef618e8953e",
+   "size": 18795
+  },
+  {
+   "path": "docs/images/SteeringKnuckle-BearingClamp.jpg",
+   "sha": "d998a739f1a785443349b867d92af1d4a9a36fb8",
+   "size": 111139
+  },
+  {
+   "path": "docs/images/SteeringKnuckle-BearingInner.jpg",
+   "sha": "353afc4134e84e3bcbba699f150dd84e2d43a09b",
+   "size": 60866
+  },
+  {
+   "path": "docs/images/SteeringKnuckle-BearingOuter.jpg",
+   "sha": "fd35565c479a6bee32df2461302eae34c240eea2",
+   "size": 57646
+  },
+  {
+   "path": "docs/images/SteeringKnuckle-Dangle.jpg",
+   "sha": "fadc187d8653dc34c48fbc1e8a481a406fcf6eac",
+   "size": 62679
+  },
+  {
+   "path": "docs/images/SteeringKnuckle-Parts.jpg",
+   "sha": "72dc87340c9687a25e66c565d1df5ad9b956d9ae",
+   "size": 107668
+  },
+  {
+   "path": "docs/images/SteeringKnuckle-Reamer.jpg",
+   "sha": "2b60879e4153fab74d5322d2824cfb365c9d1a6d",
+   "size": 67665
+  },
+  {
+   "path": "docs/images/SteeringKnuckle-SetScrewInsert.jpg",
+   "sha": "3b7d9e6c21925a9a840f78e223f7582fce274627",
+   "size": 41607
+  },
+  {
+   "path": "docs/images/Tim-Sawppy-Bogie-Wheels-LRCorrect-360.jpeg",
+   "sha": "9378821d33fe994f24a2224f690b43570665e791",
+   "size": 64731
+  },
+  {
+   "path": "docs/images/Tim-Sawppy-Bogie-Wheels-LRCorrect-annotated-360.jpeg",
+   "sha": "da4854d439721074a46bebbd923dc0e051e8a4e7",
+   "size": 89998
+  },
+  {
+   "path": "docs/images/Tim-Sawppy-Bogie-Wheels-LRSwapped-360.jpeg",
+   "sha": "139bdbec4a1d8cd8e421323ee5066ebba4d168a6",
+   "size": 50052
+  },
+  {
+   "path": "docs/images/Tim-Sawppy-Bogie-Wheels-LRSwapped-annotated-360.jpeg",
+   "sha": "c018e49d428cff5771a39d7873721592b0f61af9",
+   "size": 69339
+  },
+  {
+   "path": "docs/images/Wheel Hub - complete.jpg",
+   "sha": "c5d032a7ff3c096a4357b07cfd8759cb046f90d9",
+   "size": 94295
+  },
+  {
+   "path": "docs/images/Wheel Hub - parts.jpg",
+   "sha": "aaf3f764a9aa3ca7b63ba022e059ed8f718cba5f",
+   "size": 78187
+  },
+  {
+   "path": "docs/images/Wheel Hub - set screw insert.jpg",
+   "sha": "43eac85d578d2be4a97594e8e0f79e67367889d1",
+   "size": 154488
+  },
+  {
+   "path": "docs/images/Wheel Hub - too much plastic.jpg",
+   "sha": "0dbf7ff0572f03f1e02626a1587c820df89bd539",
+   "size": 87798
+  },
+  {
+   "path": "docs/images/Wheel Hub - wheel bolt insert.jpg",
+   "sha": "fe332975042c44e2c96e9e7c165c55d772567fa4",
+   "size": 72667
+  },
+  {
+   "path": "docs/images/Wheel-BridgeRemove.jpg",
+   "sha": "429b78f85ebb26a2793c505f8b0ee97edb711ee1",
+   "size": 123665
+  },
+  {
+   "path": "docs/images/Wheel-PrintBed.jpg",
+   "sha": "19cccbbe7085582973522852230ab0f8361386fe",
+   "size": 177703
+  },
+  {
+   "path": "docs/images/Wheel-Ream.jpg",
+   "sha": "e527d5f7fab84c403cadfafeee556986a76b625d",
+   "size": 111494
+  },
+  {
+   "path": "docs/wiring/Wiring.md",
+   "sha": "e5d27b57f7b6cc71c1941a23cc1704ae70648110",
+   "size": 3891
+  },
+  {
+   "path": "docs/wiring/connector_images/jst-2.0-3p.jpg",
+   "sha": "9b1916a0e6c172c620d328f3b0654a5d000804e4",
+   "size": 51738
+  },
+  {
+   "path": "docs/wiring/connector_images/molex-5264-3P-2.png",
+   "sha": "0371f78ec3b0f112a239928179dbda7105b1d8da",
+   "size": 184188
+  },
+  {
+   "path": "docs/wiring/generateHarness.bat",
+   "sha": "2f46ff487f224e83c886cc92bd9b51f0c07e6446",
+   "size": 49
+  },
+  {
+   "path": "docs/wiring/generateHarness.sh",
+   "sha": "e15739c20b432e5bcadb080c43208308dcae7b0f",
+   "size": 47
+  },
+  {
+   "path": "docs/wiring/harness.png",
+   "sha": "3c3669bf6275ce36b3405331df45a899e445eeb8",
+   "size": 515698
+  },
+  {
+   "path": "docs/wiring/harness.yml",
+   "sha": "6bf31221df3873d0a3dbdefa2ace64d492683d6e",
+   "size": 1439
+  },
+  {
+   "path": "docs/wiring/overview.odg",
+   "sha": "0a441ee7f0c5a7a311bdcf2ea12cf87ef74b84e6",
+   "size": 1794678
+  },
+  {
+   "path": "docs/wiring/overview.png",
+   "sha": "cece4cf8db08fd4905dc6fcbe4253444e4d09c82",
+   "size": 338271
+  },
+  {
+   "path": "esp32_sawppy/.gitignore",
+   "sha": "b9f3806a22867843e318587d52ca211f261d7ac5",
+   "size": 13
+  },
+  {
+   "path": "esp32_sawppy/.vscode/extensions.json",
+   "sha": "080e70d08b9811fa743afe5094658dba0ed6b7c2",
+   "size": 274
+  },
+  {
+   "path": "esp32_sawppy/.vscode/settings.json",
+   "sha": "26662bd235d9fc858b1c5fc624d2b74931d165ea",
+   "size": 175
+  },
+  {
+   "path": "esp32_sawppy/CMakeLists.txt",
+   "sha": "8de9bfd0e4f0fa210d3270c53e1b9432e4c14d4d",
+   "size": 111
+  },
+  {
+   "path": "esp32_sawppy/README.md",
+   "sha": "7ed09e504c98e8037d3e52ff50c5810b80133497",
+   "size": 492
+  },
+  {
+   "path": "esp32_sawppy/browser_ui/server.js",
+   "sha": "fb851af47a443828a44f39f36d0e3d0a5b126e6e",
+   "size": 2630
+  },
+  {
+   "path": "esp32_sawppy/browser_ui/static/index.html",
+   "sha": "3343b1346f885b395acfd68a7e741ec164482d42",
+   "size": 1502
+  },
+  {
+   "path": "esp32_sawppy/browser_ui/static/joystick.css",
+   "sha": "1077ea93a37bd8658bab36c6890b01858041a64d",
+   "size": 1616
+  },
+  {
+   "path": "esp32_sawppy/browser_ui/static/joystick.js",
+   "sha": "13f980a78373d3368f285df35daefebbddb217a7",
+   "size": 12957
+  },
+  {
+   "path": "esp32_sawppy/lib/README.md",
+   "sha": "158ea50fef78883ab049f76efdb952562e43e8c1",
+   "size": 554
+  },
+  {
+   "path": "esp32_sawppy/lib/hardware/drv8833_mcpwm.c",
+   "sha": "2ce28d6ffe3eb0d2313a9983e16bc85b42248a30",
+   "size": 7754
+  },
+  {
+   "path": "esp32_sawppy/lib/hardware/drv8833_mcpwm.h",
+   "sha": "0dc4cd4e32e5b6aa38a0656eebe78fbc130c6a01",
+   "size": 5340
+  },
+  {
+   "path": "esp32_sawppy/lib/hardware/gpio_assignments.h",
+   "sha": "3ea1d5c58c8505726dff82c216b0cbc9d432c2ca",
+   "size": 4152
+  },
+  {
+   "path": "esp32_sawppy/lib/hardware/joy_adc.c",
+   "sha": "d75629887818888ca4aeb36b1df33a468971e629",
+   "size": 5927
+  },
+  {
+   "path": "esp32_sawppy/lib/hardware/joy_adc.h",
+   "sha": "47409460916be00436f2d7f413d9d7e3d432d032",
+   "size": 4815
+  },
+  {
+   "path": "esp32_sawppy/lib/hardware/joy_rmt_rc.c",
+   "sha": "00859809188f82d85f8d7f50a5ddd770476bfb06",
+   "size": 4568
+  },
+  {
+   "path": "esp32_sawppy/lib/hardware/joy_rmt_rc.h",
+   "sha": "0a804d13ae69def0af46359810a5965c3e3dcacf",
+   "size": 3273
+  },
+  {
+   "path": "esp32_sawppy/lib/hardware/servo_steer_ledc.c",
+   "sha": "a877fce1e1541af8eb9feb07d92ec81073cb95c6",
+   "size": 4159
+  },
+  {
+   "path": "esp32_sawppy/lib/hardware/servo_steer_ledc.h",
+   "sha": "54f66a9a7dd9889e1d836bd6057919baa894ac73",
+   "size": 3508
+  },
+  {
+   "path": "esp32_sawppy/lib/hardware/volt_adc.c",
+   "sha": "028ddf32b1d3c5f9395fb23f2ad860a5068d097a",
+   "size": 2228
+  },
+  {
+   "path": "esp32_sawppy/lib/hardware/volt_adc.h",
+   "sha": "81a4e7344d4905aba10cbda7c68e09b45e22df3c",
+   "size": 3215
+  },
+  {
+   "path": "esp32_sawppy/lib/messages/joy_msg.h",
+   "sha": "041b88c3b482fe2c8df7c644339a242bd6f87549",
+   "size": 1595
+  },
+  {
+   "path": "esp32_sawppy/lib/messages/msg_print.c",
+   "sha": "17bc3ae47105b5aa054c2685663a09bfed7ab492",
+   "size": 4802
+  },
+  {
+   "path": "esp32_sawppy/lib/messages/msg_print.h",
+   "sha": "eee503c6f3f2458d6b2bb0967f7e4fc93697c404",
+   "size": 1995
+  },
+  {
+   "path": "esp32_sawppy/lib/messages/power_msg.h",
+   "sha": "86ca77302ad712c5d93fffa5179d16095c8cec77",
+   "size": 1327
+  },
+  {
+   "path": "esp32_sawppy/lib/messages/twist_msg.h",
+   "sha": "59429a35db9fe828f7d4269567177785f386a46f",
+   "size": 1484
+  },
+  {
+   "path": "esp32_sawppy/lib/messages/wheel_msg.h",
+   "sha": "673b4225823be70a413a8e1d87e69a3e482138c2",
+   "size": 1771
+  },
+  {
+   "path": "esp32_sawppy/lib/rover/joy_steer.c",
+   "sha": "0df317638d131ba46728d999b568d3120dcf2b5d",
+   "size": 5283
+  },
+  {
+   "path": "esp32_sawppy/lib/rover/joy_steer.h",
+   "sha": "e2575745a240b78a14c2988205d06873fd05e5b1",
+   "size": 3129
+  },
+  {
+   "path": "esp32_sawppy/lib/rover/wheel_ackermann.c",
+   "sha": "631b50fcaa1302c4ea18f3576c06edfdf0b5413e",
+   "size": 5330
+  },
+  {
+   "path": "esp32_sawppy/lib/rover/wheel_ackermann.h",
+   "sha": "f8902a6f594fb3dcc3c8d4683318158ae2d3a795",
+   "size": 2363
+  },
+  {
+   "path": "esp32_sawppy/lib/rover/wheel_parameter.h",
+   "sha": "275149fce686091ee9bd355e497579f72369d0a1",
+   "size": 3513
+  },
+  {
+   "path": "esp32_sawppy/lib/wifi/http_file_server.c",
+   "sha": "1769862e41810d3dce22c41a156038796e172a2b",
+   "size": 16386
+  },
+  {
+   "path": "esp32_sawppy/lib/wifi/http_file_server.h",
+   "sha": "f52e36b9785c95a110cd3b8a8eb9435776ae8118",
+   "size": 2697
+  },
+  {
+   "path": "esp32_sawppy/lib/wifi/secrets.h",
+   "sha": "651beaad2e50f234a75f58ae25156885f611ddb1",
+   "size": 315
+  },
+  {
+   "path": "esp32_sawppy/lib/wifi/softap_start.c",
+   "sha": "9d9081877e89ea456988ad80ccd1069bc3784f78",
+   "size": 2673
+  },
+  {
+   "path": "esp32_sawppy/lib/wifi/softap_start.h",
+   "sha": "335990e9931cf7b03b251ce9136c19d60ac3b7ca",
+   "size": 692
+  },
+  {
+   "path": "esp32_sawppy/lib/wifi/station_start.c",
+   "sha": "090a0019225268b9bc18a49b465a2871f74984f3",
+   "size": 5813
+  },
+  {
+   "path": "esp32_sawppy/lib/wifi/station_start.h",
+   "sha": "f788681b1ce3692b111c2e7dfb8fa04dc0ec1670",
+   "size": 729
+  },
+  {
+   "path": "esp32_sawppy/partition_singleapp_spiff.csv",
+   "sha": "5c30947e3bbb14540398624c400988e014153d3b",
+   "size": 310
+  },
+  {
+   "path": "esp32_sawppy/platformio.ini",
+   "sha": "2fd1e3896da84098a29bafbe509b6537367779c0",
+   "size": 575
+  },
+  {
+   "path": "esp32_sawppy/sdkconfig",
+   "sha": "b593f32ecff0af718f44a89984d0f037be77827c",
+   "size": 33441
+  },
+  {
+   "path": "esp32_sawppy/sdkconfig.esp32dev",
+   "sha": "27a4ceb67ab430ed0eafad2d45abf5b1a4e47296",
+   "size": 53526
+  },
+  {
+   "path": "esp32_sawppy/sdkconfig.esp32dev.old",
+   "sha": "0842be2aafbf771f675009d1b6239f756548eae2",
+   "size": 45488
+  },
+  {
+   "path": "esp32_sawppy/sdkconfig.old",
+   "sha": "6271daaeec0b8f463ea6775fc185fd164175b73d",
+   "size": 27631
+  },
+  {
+   "path": "esp32_sawppy/src/CMakeLists.txt",
+   "sha": "483bc0cfc50a380fbdaa854f4538109090940fa7",
+   "size": 199
+  },
+  {
+   "path": "esp32_sawppy/src/main.c",
+   "sha": "90305d73c608dd529c194d7e5b6d644b0da5bd85",
+   "size": 3940
+  },
+  {
+   "path": "jupyter/.gitignore",
+   "sha": "aaa75a99888b6454183c547858147ff94c1f6961",
+   "size": 770
+  },
+  {
+   "path": "jupyter/Sawppy Ackermann Math.ipynb",
+   "sha": "3a22f4d9f06deae86432c44847da2193a3a8c41d",
+   "size": 23197
+  },
+  {
+   "path": "modifications/Marco_Walther/25D Coupler.scad",
+   "sha": "efae6a90208228399c69d300ffd1970dda2fb990",
+   "size": 552
+  },
+  {
+   "path": "modifications/Marco_Walther/25D Coupler.stl",
+   "sha": "6e28279807ff7fda116bf9f847b5792b3652f4e5",
+   "size": 287682
+  },
+  {
+   "path": "modifications/Marco_Walther/25D_Motor_1.jpg",
+   "sha": "08a2222e1d0380aedd02a252fe61be1cbae1b5bc",
+   "size": 289457
+  },
+  {
+   "path": "modifications/Marco_Walther/25D_Motor_2.jpg",
+   "sha": "6ac6e9eaeb705a8455680f425d8bd74bd81e61b0",
+   "size": 244163
+  },
+  {
+   "path": "modifications/Marco_Walther/25D_Motor_3.jpg",
+   "sha": "5e45f3514651aabe8f9e811d9a12a82994bb62b8",
+   "size": 310825
+  },
+  {
+   "path": "modifications/Marco_Walther/25D_Motor_Control.jpg",
+   "sha": "13ce0368251282f5c2314a177ebb80c37b8ecf95",
+   "size": 306545
+  },
+  {
+   "path": "modifications/Marco_Walther/AX-12-Bracket.fcstd",
+   "sha": "e8cdcdf362db8710e2917cebfdf423eb407595b8",
+   "size": 126222
+  },
+  {
+   "path": "modifications/Marco_Walther/AX-12-Bracket.stl",
+   "sha": "3d6e3c267ae01845e3252224a71bbca8fdfe2c1f",
+   "size": 83384
+  },
+  {
+   "path": "modifications/Marco_Walther/AX-12-Coupler.fcstd",
+   "sha": "98fb36514d308acd1637bf1e7318a4cc92f5f156",
+   "size": 50060
+  },
+  {
+   "path": "modifications/Marco_Walther/AX-12-Coupler.stl",
+   "sha": "7ee0e89591546a5ec445d3c881e8935aed821a16",
+   "size": 73984
+  },
+  {
+   "path": "modifications/Marco_Walther/Adafruit16x32Display.jpg",
+   "sha": "aebe7d4701a53447ae50b7456cdfece658a88afd",
+   "size": 391559
+  },
+  {
+   "path": "modifications/Marco_Walther/DisplayBottom.FCStd",
+   "sha": "07f5c9b2ab31f65b4d6a60fe728e2e5c72835200",
+   "size": 270184
+  },
+  {
+   "path": "modifications/Marco_Walther/DisplayBottom.stl",
+   "sha": "5b8b5699d09d6ca674820ba12e94163e80a075f6",
+   "size": 140484
+  },
+  {
+   "path": "modifications/Marco_Walther/DisplayTop.FCStd",
+   "sha": "7bfdc1c66ef1140558db52fbdfcd722585e876cf",
+   "size": 737663
+  },
+  {
+   "path": "modifications/Marco_Walther/DisplayTop.stl",
+   "sha": "497c2306bb99b113c53a8f1cc792894eb8466c28",
+   "size": 183684
+  },
+  {
+   "path": "modifications/Marco_Walther/Fixed Knuckle 25D.scad",
+   "sha": "45017753f3aac601dd605e66818c63377278b6f6",
+   "size": 2650
+  },
+  {
+   "path": "modifications/Marco_Walther/Fixed Knuckle 25D.stl",
+   "sha": "d7dd991271e350f9b53390efcd706d6ea096c972",
+   "size": 2071232
+  },
+  {
+   "path": "modifications/Marco_Walther/README.md",
+   "sha": "68d7d2498ea58c6d03aa60b1790573a157e98e36",
+   "size": 1111
+  },
+  {
+   "path": "modifications/Marco_Walther/Sawppy.jpg",
+   "sha": "13fd0fb661dcb19886f91b57b822ed70618f6836",
+   "size": 351169
+  },
+  {
+   "path": "modifications/Marco_Walther/Steering Knuckle 25D.scad",
+   "sha": "6376f145b07cd7895d129a4dd77d4e9bd07864b4",
+   "size": 3030
+  },
+  {
+   "path": "modifications/Marco_Walther/Steering Knuckle 25D.stl",
+   "sha": "aa9abbc513cc6e405fe6d0759ee011813b1544ea",
+   "size": 1336857
+  },
+  {
+   "path": "modifications/README.md",
+   "sha": "d1aaeec23569b66e44602dc321442a2a8834d39d",
+   "size": 1208
+  },
+  {
+   "path": "modifications/bob_krause/IMG_5787.jpg",
+   "sha": "6111cc165feb3bab545a39c326206aa3ad953b2a",
+   "size": 71806
+  },
+  {
+   "path": "modifications/bob_krause/IMG_5789.jpg",
+   "sha": "4c8e2cfd71498fce8278fb26d3eee891668c1ece",
+   "size": 92731
+  },
+  {
+   "path": "modifications/bob_krause/IMG_5790.jpg",
+   "sha": "56e3e8d11890447667c74c91b70a8b0328dae3af",
+   "size": 64788
+  },
+  {
+   "path": "modifications/bob_krause/README.md",
+   "sha": "dc1b5b14d7cae010d6614bb51b1db1eb37efbc08",
+   "size": 2303
+  },
+  {
+   "path": "modifications/kevin_nickels/Knuckle_CAD.jpg",
+   "sha": "32db0481f61bc304ba48a912baec639d8663b1d0",
+   "size": 41415
+  },
+  {
+   "path": "modifications/kevin_nickels/LX-224.png",
+   "sha": "2bcaf2c385c806dc689917ace633c6f90971675d",
+   "size": 42035
+  },
+  {
+   "path": "modifications/kevin_nickels/LX-224_w_captured_nuts_cad.jpg",
+   "sha": "d8a5d7f7f794a893403b7eddc9d61070624eba07",
+   "size": 22734
+  },
+  {
+   "path": "modifications/kevin_nickels/README.md",
+   "sha": "e3203347ddf2018f73df08823b280edb614cb427",
+   "size": 3964
+  },
+  {
+   "path": "modifications/kevin_nickels/holster_empty.jpg",
+   "sha": "da9263dc736974e5e8d8b93423a3c5c94880e73e",
+   "size": 61825
+  },
+  {
+   "path": "modifications/kevin_nickels/holster_full.jpg",
+   "sha": "2da19190d010ecac3117db695a4abfe78978426e",
+   "size": 78134
+  },
+  {
+   "path": "modifications/kevin_nickels/joystick_assembled.jpg",
+   "sha": "f4010d717c440154537ab0fc29ac3a1ee10a4619",
+   "size": 107130
+  },
+  {
+   "path": "modifications/kevin_nickels/joystick_cad.jpg",
+   "sha": "4a5fcb5984bef22424c38533fee6d4c334931b35",
+   "size": 59024
+  },
+  {
+   "path": "modifications/kevin_nickels/joystick_disassembled.jpg",
+   "sha": "2170f617c362f08192afa701b9b286bb6853835a",
+   "size": 32315
+  },
+  {
+   "path": "modifications/kevin_nickels/knuckle_w_nuts.jpg",
+   "sha": "fee0ba7a84f9f54e9e387bcb66b6022f9af0ffb2",
+   "size": 87492
+  },
+  {
+   "path": "modifications/kevin_nickels/knuckle_w_setscrew.jpg",
+   "sha": "2efff35ec8321cdaacaa4ef7544fd7c0dab511c9",
+   "size": 104076
+  },
+  {
+   "path": "modifications/kevin_nickels/rover_ortho.jpg",
+   "sha": "edae4547d09da436098487aa2bc6b842d1554771",
+   "size": 523387
+  },
+  {
+   "path": "modifications/kevin_nickels/rover_top.jpg",
+   "sha": "78a6cf7634ac03c4eaa25e3bccce6d512e048397",
+   "size": 614844
+  }
+ ],
+ "excluded": []
+}
